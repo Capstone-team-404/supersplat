@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "path": "reconstruction/latest.ply",
+  "name": "딸기 3DGS",
+  "sha256": "b99a0d3dafd8bfc6eef11a609976a38dacb3739afcb64cb7e40b3073578e6961",
+  "vertexCount": 147995,
+  "sizeBytes": 36704291,
+  "sourceProvidedFile": "pointcloud_masked.ply",
+  "updatedAt": "2026-10-14T11:39:44.879067+00:00",
+  "bootstrapSource": {
+    "repository": "Capstone-team-404/Smart-Farm-Unity",
+    "commit": "c6e37ca8b8112eb61a8cd590ac8c9007c023c3e0",
+    "path": "Assets/pointcloud_masked.ply",
+    "sha256": "b99a0d3dafd8bfc6eef11a609976a38dacb3739afcb64cb7e40b3073578e6961"
+  }
+}
